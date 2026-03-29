@@ -22,6 +22,6 @@
 **Test Steps:**
 
 | Step | Action | Data | Expected Result |
-| :---: | :--- | :--- | :--- |
+| :---: | :--- | :---: | :--- |
 | 1 | Hover over the 'Like' button on any comment. | - | The cursor changes into a pointer. |
 | 2 | Click the 'Like' button. | - | A 'Log In' / 'Sign In' pop-up window appears. <br>The reaction count on the comment does not increase. |
